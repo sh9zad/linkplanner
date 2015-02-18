@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Link Planner</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="icon">icon</string>
+    <string name="title_activity_link_data">Link Data</string>
+    <string name="site_name">Site Name: </string>
+    <string name="gps">GPS</string>
+    <string name="map">MAP</string>
+    <string name="lat">Latitude</string>
+    <string name="lng">Longtitude</string>
+    <string name="show">Show</string>
+    <string name="title_activity_map_view">Map View</string>
+    <string name="save">Save</string>
+    <string name="calc">Calculate</string>
+    <string name="height">Antenna Height</string>
+    <string name="freq">Frequancy</string>
+    <string name="title_activity_link_calculation">Link Calculation</string>
+
+</resources>
